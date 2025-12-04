@@ -1,3 +1,3 @@
 # wos
 
-- [CrazyJoe.md](Crazy Joe)
+- [Crazy Joe](CrazyJoe.md)
